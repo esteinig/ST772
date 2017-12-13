@@ -1,0 +1,27 @@
+name: test2
+channels:
+- anaconda
+- defaults
+dependencies:
+- zlib=1.2.8=3
+- openssl=1.0.2l=0
+- pip=9.0.1=py27_1
+- python=2.7.13=0
+- readline=6.2=2
+- setuptools=27.2.0=py27_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- pip:
+  - biopython==1.70
+  - future==0.16.0
+  - ga4ghmongo==0.0.1.2
+  - mongoengine==0.13.0
+  - mykatlas==0.6.1
+  - mykrobe==0.5.6
+  - numpy==1.13.1
+  - pymongo==3.5.0
+  - pyvcf==0.6.8
+  - six==1.10.0
+prefix: /home/esteinig/miniconda3/envs/test2
+

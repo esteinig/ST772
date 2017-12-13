@@ -1,0 +1,355 @@
+ID,Accession,ST,Clade,Subgroup,SCCmec,Type,IRP,Outbreak,Year,Region,Country,Location,Longitude,Latitude,Travel,Family,Link,Clinical,Acquisition,Phenotype Assays,Contamination,Genome Statistics
+WM_3838,ERR264121,772,ST772-A,ST772-A2,-,-,-,-,2011,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,Yes,Exclude
+WM_6058,ERR264117,772,ST772-A,ST772-A2,-,-,-,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,Yes,Exclude
+AGAR_201031078,ERR264128,772,Basal,Basal,SCCmec VT (GR1),MRSA,negative,-,2010,Australasia,Australia,Victoria,144.963169,-37.814251,Unknown,Unknown,Unknown,SSTI,HO,-,-,Include
+WM_5916,ERR264116,772,Basal,Basal,SCCmec VT (GR1),MRSA,negative,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,Yes,Yes,Yes,SSTI,-,-,-,Include
+AGAR_201015018,ERR264127,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,Australia,South Australia,138.601,-34.929,Unknown,Unknown,Unknown,SSTI,CO,-,-,Include
+AGAR_201019068,ERR264124,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,Australia,Victoria,144.963169,-37.814251,Unknown,Unknown,Unknown,SSTI,CO,-,-,Include
+AGAR_201024031,ERR264125,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,Australia,Western Australia,115.8589,-31.9522,Unknown,Unknown,Unknown,SSTI,CO,-,-,Include
+AGAR_201030094,ERR264126,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,Australia,Queensland,153.0333,-27.4667,Unknown,Unknown,Unknown,SSTI,CO,-,-,Include
+AGAR_201129011,ERR264129,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Queensland,153.0333,-27.4667,Unknown,Unknown,Unknown,SSTI,HO,-,-,Include
+AGAR_201131016,ERR264130,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Victoria,144.963169,-37.814251,Unknown,Unknown,Unknown,SSTI,HO,-,-,Include
+AGAR_201131044,ERR264131,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Victoria,144.963169,-37.814251,Unknown,Unknown,Unknown,SSTI,HO,-,-,Include
+WM_2776,ERR264113,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_3169,ERR264111,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_3199,ERR264112,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,Australia,Sydney,151.2094,-33.865,No,No,No,Colonisation,-,-,-,Include
+WM_5008,ERR264122,772,ST772-A,ST772-A1,SCC [mec V+kdp+As/Cd/Cu],MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_5499,ERR264114,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_5818,ERR264115,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_6378,ERR264118,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_6434,ERR264123,772,ST772-A,ST772-A1,mecA,MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+WM_6470,ERR264119,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,No,No,SSTI,-,-,-,Include
+WM_6589,ERR264120,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,Australia,Sydney,151.2094,-33.865,No,Yes,Yes,SSTI,-,-,-,Include
+NK_M183,ERR221780,772,ST772-A,ST772-A1,-,-,-,-,2004,South Asia,Bangladesh,Mymensingh,90.35,23.7,Unknown,Yes,Yes,-,-,-,Yes,Exclude
+NK_D122,ERR221779,772,Basal,Basal,SCC [remnant IV] (NK_D122),MSSA,negative,-,2004,South Asia,Bangladesh,Dhaka,90.35,23.7,Unknown,Yes,Yes,-,-,-,-,Include
+NK_D64,ERR221778,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2004,South Asia,Bangladesh,Dhaka,90.35,23.7,Unknown,Yes,Yes,-,-,-,-,Include
+HW_M1627,ERR279061,772,ST772-A,ST772-A2,-,-,-,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,Colonisation,-,-,Yes,Exclude
+HW_M2178,ERR279080,772,ST772-A,ST772-A2,-,-,-,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,Colonisation,-,-,Yes,Exclude
+HW_M2281,ERR279082,772,ST772-A,ST772-A1,-,-,-,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,Colonisation,-,-,Yes,Exclude
+SSI_55000,ERR278890,772,ST772-A,ST772-A2,-,-,-,-,2007,Europe,Denmark,Ølgod,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,Yes,Exclude
+SSI_68485,ERR278909,772,ST772-A,ST772-A2,-,-,-,-,2009,Europe,Denmark,-,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,Yes,Exclude
+SSI_70994,ERR278913,772,ST772-A,ST772-A3,-,-,-,-,2010,Europe,Denmark,Hornslet,12.5681157,55.6762944,Unknown,Unknown,Unknown,SSTI,-,-,Yes,Exclude
+SSI_76916,ERR278931,772,ST772-A,ST772-A2,-,-,-,-,2011,Europe,Denmark,-,12.5681157,55.6762944,No,No,No,-,-,-,Yes,Exclude
+HW_M1396,ERR279076,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,Colonisation,-,-,-,Include
+HW_M1470,ERR279060,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M1524,ERR279077,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,-,Include
+HW_M1659,ERR279062,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M1784,ERR279063,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M1812,ERR279064,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,-,Include
+HW_M1867,ERR279065,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M1952,ERR279066,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M1975,ERR279067,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+HW_M2014,ERR279068,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M2048,ERR279088,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M2116,ERR279069,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M2128,ERR279078,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,-,Include
+HW_M2137,ERR279070,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M2150,ERR279079,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,Colonisation,-,-,-,Include
+HW_M2173,ERR279081,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+HW_M2257,ERR279071,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HW_M2366,ERR279072,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M2407,ERR279083,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M2408,ERR279084,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,Colonisation,-,-,-,Include
+HW_M2459,ERR279085,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,SSTI,-,-,-,Include
+HW_M2483,ERR279073,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M2520,ERR279074,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,Respiratory,-,-,-,Include
+HW_M2531,ERR279086,772,ST772-A,ST772-A1,SCC [mec V+kdp] (HW_M2531),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M2581,ERR279075,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M2685,ERR279087,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,No,No,Colonisation,-,-,-,Include
+HW_M2760,ERR294622,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Unknown,Unknown,-,-,-,-,Include
+HW_M717,ERR294611,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M740,ERR294612,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M741,ERR294613,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Unknown,Yes,SSTI,-,-,-,Include
+HW_M841,ERR294614,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Unknown,Yes,Yes,SSTI,-,-,-,Include
+SSI_55280,ERR278891,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Denmark,Ølgod,12.5681157,55.6762944,Unknown,No,No,Colonisation,-,-,-,Include
+SSI_61643,ERR278896,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,Denmark,Albertslund,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_61700,ERR278897,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,-,2008,Europe,Denmark,-,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_62035,ERR278899,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,Denmark,Holbæk,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_65014,ERR278900,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Sydals,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_65068,ERR278901,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Holbæk,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_66011,ERR278903,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2009,Europe,Denmark,Aalborg,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_66218,ERR278904,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Søborg,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_66835,ERR278905,772,ST772-A,ST772-A1,SCC [mec V+kdp] (HW_M2531),MRSA,positive,-,2009,Europe,Denmark,-,12.5681157,55.6762944,Yes,No,Yes,Colonisation,-,-,-,Include
+SSI_67034,ERR278906,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Denmark,Horsens,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_70238,ERR278910,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Taastrup,12.5681157,55.6762944,Yes,Yes,Yes,Colonisation,-,-,-,Include
+SSI_70775,ERR278912,772,ST772-A,ST772-A2,mecA,MRSA,positive,-,2010,Europe,Denmark,Nørre Nebel,12.5681157,55.6762944,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+SSI_71520,ERR278915,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Smørum,12.5681157,55.6762944,No,No,No,SSTI,-,-,-,Include
+SSI_71907,ERR278916,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Sønderborg,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_71924,ERR278917,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Hvidovre,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_72795,ERR278920,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2010,Europe,Denmark,Tune,12.5681157,55.6762944,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+SSI_72796,ERR278921,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,-,2010,Europe,Denmark,-,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_72893,ERR278922,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Gråsten,12.5681157,55.6762944,No,No,No,SSTI,-,-,-,Include
+SSI_73227,ERR278923,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Denmark,Silkeborg,12.5681157,55.6762944,No,No,No,SSTI,-,-,-,Include
+SSI_75079,ERR278924,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Hillerød,12.5681157,55.6762944,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+SSI_75256,ERR278926,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Vejen,12.5681157,55.6762944,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+SSI_75636,ERR278927,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Virum,12.5681157,55.6762944,No,No,No,SSTI,-,-,-,Include
+SSI_76450,ERR278928,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Viby Jylland,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_76611,ERR278929,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Rødovre,12.5681157,55.6762944,Yes,Yes,Yes,Colonisation,-,-,-,Include
+SSI_77637,ERR278933,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Nyborg,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_78094,ERR278935,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Viborg,12.5681157,55.6762944,No,No,No,SSTI,-,-,-,Include
+SSI_78654,ERR278936,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Denmark,Middelfart,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_80142,ERR278938,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Frederiksberg,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_81202,ERR278942,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Grenaa,12.5681157,55.6762944,Yes,No,Yes,SSTI,-,-,-,Include
+SSI_81623,ERR278945,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Rødovre,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_82130,ERR278948,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,Skibby,12.5681157,55.6762944,Yes,Yes,Yes,SSTI,-,-,-,Include
+SSI_82691,ERR278949,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Denmark,-,12.5681157,55.6762944,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+PROS_1051,ERR701951,772,ST772-A,ST772-A2,-,-,-,-,2012,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,Yes,Exclude
+H121820035,ERR717021,772,Basal,Basal,SCCmec VT (H121820035),MRSA,negative,-,2012,Europe,England,East of England,-1.5,52.7,Unknown,Yes,Yes,SSTI,-,Yes,-,Include
+H053520199,ERR716963,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2005,Europe,England,West Midlands,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H061860388,ERR716964,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2006,Europe,England,East Midlands,-1.5,52.7,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H065000556,ERR716965,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2006,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,Blood,-,-,-,Include
+H073380393,ERR716967,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,England,North West,-2.2333,53.4667,Unknown,Yes,Yes,-,-,-,-,Include
+H074060283,ERR716966,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,Europe,England,South West,-4.1422,50.3714,Unknown,No,No,-,-,-,-,Include
+H080280468,ERR716969,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,England,East Midlands,-1.5,52.7,Unknown,No,No,-,-,-,-,Include
+H081080138,ERR716970,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,England,East of England,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H082040593,ERR716972,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,Respiratory,-,-,-,Include
+H083460499,ERR716968,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,-,-,-,-,Include
+H091680070,ERR716973,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,England,South East,-1.087,51.275,Unknown,No,No,-,-,-,-,Include
+H092540112,ERR716975,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,England,East of England,-1.5,52.7,Unknown,No,No,-,-,-,-,Include
+H092920220,ERR716974,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,England,West Midlands,-1.5,52.7,Unknown,No,No,-,-,-,-,Include
+H100400132,ERR716982,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,East of England,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H104200192,ERR716980,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2010,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,-,-,-,-,Include
+H104240037,ERR716977,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,North West,-2.2333,53.4667,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H104280171,ERR716978,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,East Midlands,-1.5,52.7,Unknown,No,No,SSTI,-,-,-,Include
+H104580604,ERR716979,1573,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,Yorkshire and the Humber,-2,54,Unknown,No,No,Blood,-,Yes,-,Include
+H104620390,ERR716981,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,South West,-4.1422,50.3714,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H110140259,ERR716985,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,England,North West,-2.2333,53.4667,Unknown,No,No,SSTI,-,-,-,Include
+H110420126,ERR716984,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,Isle of Man,-4.5,54.25,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H110440205,ERR716989,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,South West,-4.1422,50.3714,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H110840363,ERR716994,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,East Midlands,-1.5,52.7,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H111060048,ERR716996,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,England,East of England,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H111740113,ERR716987,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,Yorkshire and the Humber,-2,54,Unknown,Yes,Yes,SSTI,-,Yes,-,Include
+H111760076,ERR716988,772,ST772-A,ST772-A1,SCC [mec VT+czrC] (SO385),MRSA,positive,-,2011,Europe,England,Yorkshire and the Humber,-2,54,Unknown,No,No,SSTI,-,-,-,Include
+H111760093,ERR717002,772,ST772-A,ST772-A1,"SCC [mec V, ccrAA+/ccrC-] (H111760093)",MRSA,positive,-,2011,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H111760190,ERR716991,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H111841060,ERR717006,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2011,Europe,England,London,-0.1275,51.5072,Unknown,No,No,-,-,-,-,Include
+H112240124,ERR716993,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H112320111,ERR716986,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,North West,-2.2333,53.4667,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H112580068,ERR717003,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H112740185,ERR717001,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H113020156,ERR716997,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,East of England,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H113240488,ERR716995,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,East Midlands,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H114040308,ERR717004,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,North East,-1.0803,53.9583,Unknown,Yes,Yes,-,-,-,-,Include
+H114260037,ERR717000,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2011,Europe,England,West Midlands,-1.5,52.7,Unknown,No,No,Respiratory,-,-,-,Include
+H114840351,ERR716999,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,West Midlands,-1.5,52.7,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H115040072,ERR717005,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,North East,-1.0803,53.9583,Unknown,Yes,Yes,-,-,-,-,Include
+H120180302,ERR717008,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,Northern Ireland,-5.9167,54.6,Unknown,Yes,Yes,-,-,-,-,Include
+H120280128,ERR717009,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H120320033,ERR717010,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,Yorkshire and the Humber,-2,54,Unknown,No,No,-,-,-,-,Include
+H121000498,ERR717012,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,North East,-1.0803,53.9583,Unknown,Yes,Yes,-,-,-,-,Include
+H121000515,ERR717013,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,North East,-1.0803,53.9583,Unknown,Yes,Yes,SSTI,-,Yes,-,Include
+H121000518,ERR717014,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,North West,-2.2333,53.4667,Unknown,No,No,SSTI,-,-,-,Include
+H121940119,ERR717022,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,-,-,-,-,Include
+H121960068,ERR717015,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,East Midlands,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H122180113,ERR717016,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,-,-,-,-,Include
+H122960237,ERR717024,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,South West,-4.1422,50.3714,Unknown,Yes,Yes,-,-,-,-,Include
+H123440156,ERR717025,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2012,Europe,England,West Midlands,-1.5,52.7,Unknown,Yes,Yes,Blood,-,-,-,Include
+H124080237,ERR717017,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,West Midlands,-1.5,52.7,Unknown,No,No,SSTI,-,-,-,Include
+H124180227,ERR717018,3857,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,East of England,-1.5,52.7,Unknown,No,No,Respiratory,-,-,-,Include
+H124380353,ERR717026,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2012,Europe,England,North West,-2.2333,53.4667,Unknown,Yes,Yes,SSTI,-,-,-,Include
+H124500375,ERR717027,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,East Midlands,-1.5,52.7,Unknown,Yes,Yes,-,-,-,-,Include
+H124740302,ERR717019,772,ST772-A,ST772-A2,SCC negative,MSSA,positive,-,2012,Europe,England,London,-0.1275,51.5072,Unknown,Yes,Yes,Blood,-,-,-,Include
+H125020320,ERR717028,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2012,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,-,-,-,-,Include
+H125020576,ERR717020,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,South East,-1.087,51.275,Unknown,Yes,Yes,SSTI,-,-,-,Include
+HDL_C137,ERR266711,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2009,Europe,England,Birmingham,1.8936,52.4831,Unknown,Unknown,Unknown,SSTI,CO,-,-,Include
+PROS_1476,ERR715163,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Include
+PROS_983,ERR211944,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Include
+SA_VH60,ERR131800,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,Colonisation,CA,-,-,Include
+SASCBU33,ERR072248,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Include
+SASCBU34,ERR124436,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,England,-,0.131237,52.202544,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+Staff_E_1_A,ERR343855,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,Colonisation,-,-,-,Include
+Staff_E_1_B,ERR388525,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_C,ERR388526,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_D,ERR388527,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_E,ERR388528,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_F,ERR388529,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_G,ERR388530,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_H,ERR388531,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_I,ERR388532,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_J,ERR388533,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_K,ERR388534,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_M,ERR388536,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_N,ERR388537,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_O,ERR388538,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_P,ERR388539,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_Q,ERR388540,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_R,ERR388541,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_S,ERR388542,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_1_T,ERR388543,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_A,ERR343873,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,Colonisation,-,-,-,Exclude
+Staff_E_2_B,ERR377291,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_C,ERR377292,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_D,ERR377293,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_E,ERR377294,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_F,ERR377295,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_G,ERR377296,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_H,ERR377297,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_I,ERR377298,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_J,ERR377299,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_K,ERR377300,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_L,ERR473437,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_M,ERR473438,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_N,ERR377303,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_O,ERR377304,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_P,ERR377305,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_Q,ERR377306,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_R,ERR377307,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_S,ERR377308,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+Staff_E_2_T,ERR377309,772,ST772-A,Veterinary,SCCmec V (Bengal Bay),MRSA,positive,-,2013,Europe,England,Cambridge,0.131237,52.202544,Unknown,Unknown,Unknown,-,-,-,-,Exclude
+10V3510,ERR279037,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Germany,Saxony,13.2017384,51.1045407,Yes,No,Yes,SSTI,-,-,-,Include
+11ANR_12420,ERR279038,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Germany,Saxony,13.2017384,51.1045407,Unknown,No,No,Colonisation,-,-,-,Include
+RKI_06_01626_1,ERR278952,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2006,Europe,Germany,Berlin,13.3833,52.5167,Yes,Unknown,Yes,SSTI,CA,-,-,Include
+RKI_07_03185,ERR278953,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,Europe,Germany,Potsdam,13.0667,52.4,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+RKI_08_01665,ERR278954,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2008,Europe,Germany,Berlin,13.3833,52.5167,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+RKI_10_00544,ERR278960,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Germany,Köln,6.9528,50.9364,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+RKI_10_01316,ERR278961,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Germany,Göttingen,9.9356,51.5339,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+RKI_10_02093,ERR278963,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Germany,Leipzig,12.3833,51.3333,Unknown,Unknown,Unknown,-,-,-,-,Include
+RKI_10_03058,ERR278965,772,ST772-A,ST772-A2,SCC [mec V+ccrAB2] (M12_0089),MRSA,positive,-,2010,Europe,Germany,Wernigerode,10.7853,51.835,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+RKI_11_00471,ERR278966,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Germany,Eutin,10.6181,54.1378,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+RKI_11_01214,ERR278969,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Germany,Singen,8.84,47.7628,Yes,Unknown,Yes,Colonisation,CA,-,-,Include
+RKI_11_03104,ERR278970,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Germany,Augsburg,10.9,48.3667,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+RKI_12_00349_1,ERR278971,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Germany,Wiesbaden,8.24,50.08,Yes,Unknown,Yes,SSTI,-,-,-,Include
+RKI_12_03101,ERR278974,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2012,Europe,Germany,Frankfurt am Main,8.6833,50.1167,Unknown,Unknown,Unknown,SSTI,CA,-,-,Include
+RKI_12_03119,ERR278975,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Germany,Frankfurt am Main,8.6833,50.1167,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+RKI_12_03288,ERR278976,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Germany,Stuttgart,9.1833,48.7833,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+HK_NS_7,ERR279030,772,Basal,Basal,"SCC [mec VT, ccrAA+/ccrC-] (AR_4008)",MRSA,negative,-,2009,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+HK_NS_2,ERR279025,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+HK_NS_4,ERR279027,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,Blood,-,-,-,Include
+HK_NS_5,ERR279028,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+HK_NS_6,ERR279029,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+HK_NS_8,ERR279031,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Asia,Hong Kong,Hong Kong,114.109497,22.396428,Unknown,Unknown,Unknown,Blood,-,-,-,Include
+DAR_4066,ERR217345,772,Basal,Basal,SCC negative,MSSA,negative,-,2007,South Asia,India,Manipal,74.788,13.347,Unknown,Yes,Yes,SSTI,-,Yes,-,Include
+RG28,ERR221811,772,Basal,Basal,SCC negative,MSSA,negative,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,Yes,-,Include
+RG29,ERR221812,772,Basal,Basal,SCC negative,MSSA,negative,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,Yes,-,Include
+SA_3957,SRR747873,772,Basal,Basal,SCCmec VT (GR1),MRSA,negative,-,2007,South Asia,India,Hyderabad,78.48,17.37,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_0703,ERR217322,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,-,South Asia,India,Vellore,79.1333,12.9202,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_0721,ERR217323,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2005,South Asia,India,Vellore,79.1333,12.9202,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_0733,ERR217324,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2005,South Asia,India,Vellore,79.1333,12.9202,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_3966,ERR217326,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3967,ERR217327,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3973,ERR217328,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,-,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_3981,ERR217329,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3982,ERR217330,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3989,ERR217331,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2008,South Asia,India,Rajkot,70.7833,22.3,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3990,ERR217332,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2008,South Asia,India,Rajkot,70.7833,22.3,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_3999,ERR217333,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_4008,ERR217334,772,ST772-A,ST772-A1,"SCC [mec VT, ccrAA+/ccrC-] (AR_4008)",MRSA,positive,-,2007,South Asia,India,Mumbai,72.8258,18.975,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4009,ERR217335,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Blood,-,-,-,Include
+DAR_4012,ERR217336,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_4013,ERR217337,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,,-,Include
+DAR_4027,ERR217338,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4028,ERR217339,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4030,ERR217340,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,SSTI,-,Yes,-,Include
+DAR_4040,ERR217341,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4042,ERR217342,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Blood,-,-,-,Include
+DAR_4045,ERR217343,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4059,ERR217344,772,ST772-A,ST772-A3,PseudoSCCmec [class C] (M11_0294),MRSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_4068,ERR217346,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Kochi,76.28,9.97,Unknown,Yes,Yes,Urogenital,-,Yes,-,Include
+DAR_4070,ERR217347,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4071,ERR217348,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Blood,-,-,-,Include
+DAR_4076,ERR217350,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,Respiratory,-,-,-,Include
+DAR_4077,ERR217351,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Pune,73.8567,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4082,ERR217352,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2007,South Asia,India,Rajkot,70.7833,22.3,Unknown,Yes,Yes,Urogenital,-,-,-,Include
+DAR_4083,ERR217353,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+DAR_4106,ERR217354,772,ST772-A,ST772-A1,mecA,MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4124,ERR217355,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+DAR_4134,ERR217356,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,Urogenital,-,Yes,-,Include
+DAR_4142,ERR217357,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+DAR_4144,ERR217358,772,ST772-A,ST772-A1,mecA,MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,Blood,-,-,-,Include
+DAR_4145,CP010526,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,South Asia,India,Mumbai,79.8258,25.975,Unknown,Yes,Yes,Blood,-,-,-,Include
+DAR_4148,ERR217360,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2009,South Asia,India,Mumbai,73.8258,18.5203,Unknown,Yes,Yes,SSTI,-,-,-,Include
+RG25,ERR221808,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,Yes,-,Include
+RG26,ERR221809,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,-,-,Include
+RG27,ERR221810,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,Yes,-,Include
+RG31,ERR217293,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2004,South Asia,India,-,78,21,Unknown,Unknown,Unknown,-,-,-,-,Include
+SA_118,SRR404118,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,South Asia,India,Bangalore,77.5667,12.9667,Unknown,Yes,Yes,Blood,-,-,-,Include
+SA_120,SRR747870,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,South Asia,India,Bangalore,78.5667,13.9667,Unknown,Yes,Yes,SSTI,-,-,-,Include
+SA_333,SRR747871,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,negative,-,2010,South Asia,India,Madurai,78.1,9.9,Unknown,Yes,Yes,SSTI,-,-,-,Include
+SA_3989,SRR653212,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Hyderabad,78.48,17.37,Unknown,Yes,Yes,Respiratory,-,-,-,Include
+SA_LVP2,SRR653209,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2010,South Asia,India,Bhubaneswar,85.84,20.27,Unknown,Yes,Yes,SSTI,-,-,-,Include
+SASCBU19,SRR747869,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2007,South Asia,India,Bangalore,77.5667,12.9667,Unknown,Yes,Yes,Colonisation,-,-,-,Include
+AS_M11_0267,ERR264061,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,No,No,SSTI,-,-,-,Include
+AS_M11_0294,ERR264062,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Blood,-,-,-,Include
+AS_M11_0295,ERR264063,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Blood,-,-,-,Include
+AS_M11_0299,ERR264064,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,-,-,-,Include
+AS_M11_0415,ERR264065,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Environment,-,-,-,Include
+AS_M11_0426,ERR264066,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Environment,-,-,-,Include
+AS_M11_0437,ERR264060,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Environment,-,-,-,Include
+AS_M12_0006,ERR264067,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Ireland,Dublin,-6.2597,53.3478,Yes,Yes,Yes,SSTI,-,-,-,Include
+AS_M12_0089,ERR264068,772,ST772-A,ST772-A3,SCC [mec V+ccrAB2] (M12_0089),MRSA,positive,-,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,Yes,Yes,SSTI,-,-,-,Include
+AS_M12_0112,ERR264069,772,ST772-A,ST772-A2,PseudoSCCmec [class C] (M11_0294),MRSA,positive,IRL,2012,Europe,Ireland,North West,-6.2597,53.3478,Unknown,Yes,Yes,SSTI,-,-,-,Include
+M09_0243,ERR217299,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,Unknown,Unknown,-,-,-,-,Include
+M10_0033,ERR217316,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Ireland,Dublin,-6.2597,53.3478,Yes,No,Yes,SSTI,CA,-,-,Include
+M10_0045,ERR217301,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,Unknown,Unknown,-,CA,-,-,Include
+M10_0131,ERR217313,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,Yes,Yes,-,CA,-,-,Include
+M10_0203,ERR217314,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,No,No,Colonisation,HA,-,-,Include
+M10_0338,ERR217302,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2010,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M10_0342,ERR217303,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2010,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M10_0349,ERR217304,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2010,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M10_0361,ERR217315,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Ireland,Dublin,-6.2597,53.3478,Unknown,Yes,Yes,Colonisation,CA,-,-,Include
+M11_0035,ERR217300,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Ireland,Midlands,-6.2597,53.3478,Unknown,Yes,Yes,-,CA,-,-,Include
+M11_0082,ERR217305,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M11_0085,ERR217306,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M11_0092,ERR217307,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,Yes,Yes,Yes,Colonisation,HA,-,-,Include
+M11_0093,ERR217308,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Environment,-,-,-,Include
+M11_0097,ERR217309,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,-,HA,-,-,Include
+M11_0107,ERR217310,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M11_0120,ERR217311,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,No,No,No,Colonisation,HA,-,-,Include
+M11_0167,ERR217312,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,NICU,2011,Europe,Ireland,Dublin,-6.2597,53.3478,Yes,Yes,Yes,Colonisation,CA,-,-,Include
+AP_Sau119,ERR221783,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Italy,Lombardia,9.95,45.65,Unknown,Yes,Yes,SSTI,-,-,-,Include
+AP_Sau190,ERR217321,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2011,Europe,Italy,Lombardia,9.95,45.65,Unknown,Yes,Yes,SSTI,-,-,-,Include
+Riy_2819026_W_Z2481,ERR279049,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Arabian Peninsula,Kingdom of Saudi Arabia,-,46.7224333,24.6880015,Unknown,No,No,-,-,-,-,Include
+HDL_C503,ERR266710,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Netherlands,Hapert,5.25589439,51.3685373,Unknown,Unknown,Unknown,-,CA,-,-,Include
+HDL_C505,ERR266707,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Netherlands,Hapert,5.25589439,51.3685373,Unknown,Unknown,Unknown,-,CA,-,-,Include
+HDL_C506,ERR266709,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Netherlands,Hapert,5.25589439,51.3685373,Unknown,Unknown,Unknown,-,CA,-,-,Include
+HDL_C507,ERR266708,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Netherlands,Hapert,5.25589439,51.3685373,Unknown,Unknown,Unknown,-,CA,-,-,Include
+NZ_MRS091200,ERR264145,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Australasia,New Zealand,South Auckland,174.765735,-36.847385,Unknown,Yes,Yes,-,-,-,-,Include
+NZ_MRS091656,ERR264146,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Australasia,New Zealand,South Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS092054,ERR264147,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Australasia,New Zealand,Central Auckland,174.765735,-36.847385,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS101373,ERR264148,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,New Zealand,Rotorua,172.636645,-43.531637,Unknown,Unknown,Unknown,-,-,-,-,Include
+NZ_MRS101445,ERR264149,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,New Zealand,Waikato,172.636645,-43.531637,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS101613,ERR264150,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,New Zealand,Waikato,172.636645,-43.531637,Unknown,Unknown,Unknown,Colonisation,-,-,-,Include
+NZ_MRS101716,ERR264151,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Australasia,New Zealand,South Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS111753,ERR264152,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,New Zealand,South Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS111906,ERR264099,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,New Zealand,Central Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS111912,ERR264153,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Australasia,New Zealand,Central Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS112273,ERR264154,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,New Zealand,South Auckland,174.765735,-36.847385,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS112332,ERR264155,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Australasia,New Zealand,Tauranga,172.636645,-43.531637,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS121981,ERR278829,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,New Zealand,Northwest Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS122115,ERR278830,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,New Zealand,Northland,174.765735,-36.847385,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS122167,ERR278831,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,New Zealand,Central Auckland,174.765735,-36.847385,Unknown,Yes,Yes,SSTI,-,-,-,Include
+NZ_MRS122881,ERR278832,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,New Zealand,Northwest Auckland,174.765735,-36.847385,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+NZ_MRS122885,ERR278833,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Australasia,New Zealand,Northwest Auckland,174.765735,-36.847385,Unknown,Unknown,Unknown,SSTI,-,-,-,Include
+Aker_Z3215,ERR279056,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Norway,Akershus,10.766602,59.916483,Yes,No,Yes,SSTI,-,-,-,Include
+Aker_Z2827,ERR279053,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Norway,Akershus,10.766602,59.916483,Yes,No,Yes,SSTI,-,-,-,Include
+Aker_Z2830,ERR279054,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Norway,Akershus,10.766602,59.916483,Unknown,No,No,SSTI,-,-,-,Include
+HPA_S_07_6142_J,ERR266617,772,ST772-A,ST772-A2,-,-,-,-,2007,Europe,Scotland,Highland,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,CA,-,Yes,Exclude
+HPA_S_09_1973_Y,ERR266624,772,ST772-A,ST772-A3,-,-,-,-,2009,Europe,Scotland,Highland,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,Yes,Exclude
+HPA_S_10_1534_X,ERR266639,772,ST772-A,ST772-A1,-,-,-,-,2010,Europe,Scotland,Tayside,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,Yes,Exclude
+HPA_S_09_7259_Ab,ERR266635,772,Basal,Basal,"SCC [mec VT, ccrAA+/ccrC-] (AR_4008)",MRSA,negative,-,2009,Europe,Scotland,Lanarkshire,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,CA,Yes,-,Include
+HPA_S_06_9514_Q,ERR279016,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2006,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,Yes,Yes,Blood,HA,-,-,Include
+HPA_S_06_9774_E,ERR279017,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2006,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,Yes,-,Include
+HPA_S_08_6953_Z,ERR266622,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,Yes,Yes,-,HA,-,-,Include
+HPA_S_08_7585_P,ERR266623,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2008,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_09_4192_B,ERR266627,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_09_4800_K,ERR266628,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Scotland,Grampian,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,CA,-,-,Include
+HPA_S_09_5777_Y,ERR266630,772,ST772-A,ST772-A1,SCC [mec V+kdp] (HW_M2531),MRSA,positive,-,2009,Europe,Scotland,Grampian,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_09_7165_M,ERR266634,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Scotland,Grampian,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,-,Include
+HPA_S_10_1044_K,ERR266636,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_10_1177_P,ERR266637,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2009,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,Yes,-,Include
+HPA_S_10_2137_J,ERR266640,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Scotland,Lanarkshire,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_10_2742_C,ERR266641,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2010,Europe,Scotland,Grampian,-4.2026458,56.4906712,Unknown,Yes,Yes,Colonisation,HA,-,-,Include
+HPA_S_10_2994_E,ERR266642,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Scotland,Lanarkshire,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,-,Include
+HPA_S_10_3166_T,ERR266645,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2010,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_10_3687_F,ERR266647,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2010,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_10_4362_C,ERR266648,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2010,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,Yes,Yes,Urogenital,CA,-,-,Include
+HPA_S_10_5999_R,ERR266655,772,ST772-A,ST772-A1,SCC [mec V+kdp] (HW_M2531),MRSA,positive,-,2010,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_10_6275_N,ERR266657,772,ST772-A,ST772-A1,SCC negative,MSSA,positive,-,2010,Europe,Scotland,Tayside,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_11_1757_E,ERR266666,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,Scotland,Lanarkshire,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_11_1961_N,ERR266667,772,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2011,Europe,Scotland,Grampian,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,-,Include
+HPA_S_11_2523_B,ERR266668,772,ST772-A,ST772-A1,SCCmec V (Bengal Bay),MRSA,negative,-,2011,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,Yes,Yes,Colonisation,HA,-,-,Include
+HPA_S_11_2981_T,ERR266670,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,-,Include
+HPA_S_11_5058_Q,ERR266680,772,ST772-A,ST772-A1,SCCmec VT (GR1),MRSA,positive,-,2011,Europe,Scotland,Greater Glasgow and Clyde,-4.2026458,56.4906712,Unknown,No,No,SSTI,CA,-,-,Include
+HPA_S_12_1521_W,ERR266683,772,ST772-A,ST772-A2,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Scotland,Ayrshire and Arran,-4.2026458,56.4906712,Unknown,Yes,Yes,SSTI,HA,-,-,Include
+HPA_S_12_3240_E,ERR266690,3362,ST772-A,ST772-A3,SCCmec V (Bengal Bay),MRSA,positive,-,2012,Europe,Scotland,Lothian,-4.2026458,56.4906712,Unknown,No,No,SSTI,HA,-,-,Include
+Abu_Dhabi_113_Z1250,ERR279039,772,Basal,Basal,SCCmec VT (GR1),MRSA,negative,-,2009,Arabian Peninsula,United Arab Emirates,Abu Dhabi,54.37051,24.476431,Unknown,Unknown,Unknown,-,-,-,-,Include

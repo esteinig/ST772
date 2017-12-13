@@ -1,0 +1,50 @@
+{
+    "__default__" : {
+      "account" : "esteinig",
+      "time" : "02:00:00",
+      "cpu" : 1,
+      "mem": "1gb"
+    },
+
+    "trimmomatic": {
+      "cpu": 2
+    },
+
+    "snippy": {
+      "cpu": 2,
+      "mem": "2gb"
+    },
+
+    "shovill": {
+      "cpu": 2,
+      "mem": "2gb",
+      "time": "12:00:00"
+    },
+
+    "prokka": {
+      "cpu": 2
+    },
+
+    "roary": {
+      "time": "999:00:00",
+      "mem": "32gb",
+      "cpu": 16
+    },
+
+    "kraken": {
+      "mem": "2gb"
+    },
+
+    "raxml_ng": {
+      "time": "999:00:00",
+      "cpu": 8,
+      "mem": "8gb"
+    },
+
+    "gubbins": {
+        "time": "999:00:00",
+        "cpu": 16,
+        "mem": "8gb"
+    }
+
+}

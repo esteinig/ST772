@@ -1,0 +1,88 @@
+{
+  "pangenome": false,
+  "assembly": false,
+  "recombination": false,
+  "typing": false,
+  "phylogeny": false,
+
+  "trimmomatic": {
+      "cpu": 2,
+      "adapter_path": "db/adapters.fa",
+      "seed_mismatch": 2,
+      "palindrome_threshold": 20,
+      "clip_threshold": 10,
+      "window_size": 4,
+      "window_quality": 15,
+      "min_len": 50,
+      "leading": 25,
+      "trailing": 25,
+      "min_adapter_length": 1,
+      "keep_both_reads": true
+  },
+
+  "kraken": {
+      "cpu": 2,
+      "db_path": "db/minikraken"
+  },
+
+  "shovill": {
+    "spades": "",
+    "cpu": 2,
+    "depth": 100,
+    "other": ""
+  },
+
+  "prokka": {
+    "genus": "Staphylococcus",
+    "kingdom": "Bacteria",
+    "cpu": 2,
+    "evalue": "1e-06",
+    "other": ""
+  },
+
+  "mykrobe": {
+    "species": "staph"
+  },
+
+  "snippy": {
+    "cpu": 2,
+    "mincov": 10,
+    "minfrac": 0.9,
+    "reference": "files/dar4145.gbk",
+    "bwaopt": "",
+    "mapqual": 60,
+    "other": ""
+  },
+
+  "gubbins": {
+    "tree_builder": "raxml",
+    "iterations": 10,
+    "min_snps": 3,
+    "min_window_size": 100,
+    "max_window_size": 10000,
+    "model": "GTRGAMMA",
+    "remove_identical_sequences": true,
+    "filter_percentage": 25,
+    "outgroup": null,
+    "starting_tree": null,
+    "other": "",
+    "cpu": 16
+  },
+
+  "roary": {
+    "identity": 95,
+    "core": 99,
+    "cpu": 16,
+    "other": ""
+  },
+
+  "raxml_ng": {
+    "model": "GTR+G",
+    "correction": "+ASC_LEWIS",
+    "other": "",
+    "bootstrap": 100,
+    "cpu": 8
+  },
+
+
+}
