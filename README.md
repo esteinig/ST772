@@ -1,2 +1,3 @@
-# ST772
-Global phylogenomics of multidrug-resistant Staphylococcus aureus sequence type 772: the Bengal Bay clone
+## ST772 Manuscript
+
+Emergence and global spread of a multidrug-resistant, community-associated MRSA lineage from the Indian subcontinent 
